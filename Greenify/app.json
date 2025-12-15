@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "Greenify",
+    "slug": "greenify",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#2E7D32"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#2E7D32"
+      },
+      "permissions": [
+        "CAMERA"
+      ]
+    },
+    "ios": {
+      "supportsTablet": true,
+      "infoPlist": {
+        "NSCameraUsageDescription": "Greenify needs camera access to let farmers take leaf photos."
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "9ab74f9d-9515-4016-ade0-74d7ae00f33c"
+      }
+    }
+  }
+}

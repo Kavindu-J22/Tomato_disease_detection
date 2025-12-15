@@ -1,0 +1,62 @@
+{
+  "healthy": {
+    "en": {
+      "disease": "Healthy Leaf",
+      "remedy": "Your tomato plant is healthy!",
+      "prevention": "Keep monitoring regularly."
+    },
+    "si": {
+      "disease": "සෞඛ්ය සම්පන්න",
+      "remedy": "ඔබේ ගස් සෞඛ්‍යයෙන් යුක්තයි!",
+      "prevention": "නිතර පරීක්ෂා කරන්න."
+    }
+  },
+  "early_blight": {
+    "en": {
+      "disease": "Early Blight",
+      "remedy": "Remove infected leaves, apply copper fungicide.",
+      "prevention": "Avoid overhead watering, rotate crops."
+    },
+    "si": {
+      "disease": "පූර්ව අංගමාරය",
+      "remedy": "අසාධ්‍ය කොල ඉවත් කර තඹ පදනම යොදා ගන්න.",
+      "prevention": "පොකුරින් ජලය වැටීම වලකින්න, ගස් මාරු කරන්න."
+    }
+  },
+  "leaf_mold": {
+    "en": {
+      "disease": "Leaf Mold",
+      "remedy": "Improve ventilation, use sulfur spray.",
+      "prevention": "Plant with spacing, avoid humidity."
+    },
+    "si": {
+      "disease": "තක්කාලි පත්‍ර මල",
+      "remedy": "වාතාවරණය වැඩි කර සල්ෆර් යොදා ගන්න.",
+      "prevention": "ඉඩ තියමින් පැල රොපන්න, තෙත් වාතාවරණ වලකින්න."
+    }
+  },
+  "late_blight": {
+    "en": {
+      "disease": "Late Blight",
+      "remedy": "Remove and destroy infected leaves, apply fungicide (copper-based or recommended for blight). Ensure good airflow around plants.",
+      "prevention": "Grow resistant varieties, rotate crops, avoid wet foliage, and improve drainage."
+    },
+    "si": {
+      "disease": "තක්කාලිවල පරමාණු රෝගය",
+      "remedy": "ආසාදිත කොළ ඉවත් කර විනාශ කරන්න. බීජ ඖෂධ (තඹ සහිත) යොදා ගන්න. ගස් අතර හුස්ම ගමන් වාතාවරණය වැඩි කරන්න.",
+      "prevention": "රෝග ප්‍රතිරෝධී වර්ග නඟන්න, ගස් මාරු කරන්න, තෙත් කොළ වලකින්න, නිකුත් මාර්ග සකස් කරන්න."
+    }
+  },
+  "bacterial_spot": {
+    "en": {
+      "disease": "Bacterial Spot",
+      "remedy": "Remove infected leaves, avoid working with wet plants, and apply copper-based sprays as recommended.",
+      "prevention": "Use certified seed, rotate crops, and practice good field sanitation to reduce bacterial spread."
+    },
+    "si": {
+      "disease": "බැක්ටීරියා පුල්ලි",
+      "remedy": "ආසාදිත කොල ඉවත් කරන්න, තෙත් ගස් සමඟ වැඩ කිරීම වලකින්න, සහ තඹ පදනම් සප්‍රේ යොදා ගන්න.",
+      "prevention": "සහතික කළ බීජ භාවිතා කරන්න, ගස් මාරු කරන්න, සහ ක්ෂේත්‍රය නිතර පිළිසිඳ ගෙන බැක්ටීරියා පැතිරීම අඩු කරන්න."
+    }
+  }
+}
